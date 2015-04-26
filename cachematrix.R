@@ -10,10 +10,10 @@
 # function list returned by makeCacheMatrix and uses it to ( a ) calculate,
 # cache and return the inverse of the currently cached matrix if it has not 
 # already been calculated; OR, ( b ) return the cached inverse (inv) of the 
-# cached matrix if it is already cached itself (as tested using is.null()).
+# cached matrix if it is already cached (as tested using is.null()).
 #
 # These functions were created using the provided examples (makeVector and 
-# cachemean) as templates.
+# cachemean) as templates and are therefore coded quite similarly.
 
 
 ## Write a short comment describing this function
